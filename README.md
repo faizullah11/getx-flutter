@@ -1,6 +1,6 @@
-# my_app
+# Flutter
 
-A new Flutter project with MVVM using Getx for api statemanagement and navigation.
+A new Flutter project with MVVM using Getx for api state-management and navigation.
 
 ## Getting Getx
 
@@ -9,19 +9,19 @@ A new Flutter project with MVVM using Getx for api statemanagement and navigatio
 This project is a starting point for a Flutter application.
 
 Getx usage in flutter app. 
-it is use for learnig api navigation and MVVM app structure.
+it is use for learnig api navigation state-management and MVVM app structure.
 
 
-- [You can watch course playlist here !!!](https://www.youtube.com/watch?v=hfdmghXpSWA&list=PLFyjjoCMAPtzkAdWec1KTedogwztEEqJ8&index=1)
+- [You can watch course playlist here Asif Taj !!!](https://www.youtube.com/watch?v=hfdmghXpSWA&list=PLFyjjoCMAPtzkAdWec1KTedogwztEEqJ8&index=1)
 
-## For login api use
+## For login api you can use below link
 
 https://reqres.in/api/login  
 
     "email": "eve.holt@reqres.in",
     "password": "cityslicka"
 
-##  For get user list
+##  For get user list use below link
 
 https://reqres.in/api/users?page=2
 
