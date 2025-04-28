@@ -31,7 +31,8 @@ class NetworkApiService extends BaseApiServices {
       Response response = await post(
         headers: {
           'Authorization': 'Bearer $token',
-          "Content-Type": "application/json"
+          "Content-Type": "application/json",
+          'x-api-key': 'reqres-free-v1'
           },//
           //"Content-Type": jsonHeader??false?"application/json":"application/x-www-form-urlencoded"
           Uri.parse(url),

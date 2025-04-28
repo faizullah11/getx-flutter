@@ -10,6 +10,7 @@ class LoginRepository  {
   Future<dynamic> loginApi(dynamic data )async{
     try{
       final url = "https://reqres.in/api/login";
+
       log("$url ======= $data");
       dynamic response = await _apiServices.getPostApiResponse(url, data,null);
       return response ;
@@ -19,7 +20,6 @@ class LoginRepository  {
       rethrow ;
     }
   }
-
 
 }
 
